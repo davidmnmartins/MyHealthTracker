@@ -31,3 +31,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Because it is a Webstorm project
+.idea
